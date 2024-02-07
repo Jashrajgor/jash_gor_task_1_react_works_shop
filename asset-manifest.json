@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jash_gor_task_1_react_works_shop/static/css/main.308ab9c2.css",
+    "main.js": "/jash_gor_task_1_react_works_shop/static/js/main.c529cb16.js",
+    "index.html": "/jash_gor_task_1_react_works_shop/index.html",
+    "main.308ab9c2.css.map": "/jash_gor_task_1_react_works_shop/static/css/main.308ab9c2.css.map",
+    "main.c529cb16.js.map": "/jash_gor_task_1_react_works_shop/static/js/main.c529cb16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308ab9c2.css",
+    "static/js/main.c529cb16.js"
+  ]
+}
